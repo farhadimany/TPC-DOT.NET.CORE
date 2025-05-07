@@ -1,0 +1,14 @@
+D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\bin\Debug\net8.0\FarhadImany_Calculation.exe
+D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\bin\Debug\net8.0\FarhadImany_Calculation.deps.json
+D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\bin\Debug\net8.0\FarhadImany_Calculation.runtimeconfig.json
+D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\bin\Debug\net8.0\FarhadImany_Calculation.dll
+D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\bin\Debug\net8.0\FarhadImany_Calculation.pdb
+D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\obj\Debug\net8.0\FarhadImany_Calculation.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\obj\Debug\net8.0\FarhadImany_Calculation.AssemblyInfoInputs.cache
+D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\obj\Debug\net8.0\FarhadImany_Calculation.AssemblyInfo.cs
+D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\obj\Debug\net8.0\FarhadImany_Calculation.csproj.CoreCompileInputs.cache
+D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\obj\Debug\net8.0\FarhadImany_Calculation.dll
+D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\obj\Debug\net8.0\refint\FarhadImany_Calculation.dll
+D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\obj\Debug\net8.0\FarhadImany_Calculation.pdb
+D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\obj\Debug\net8.0\FarhadImany_Calculation.genruntimeconfig.cache
+D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\obj\Debug\net8.0\ref\FarhadImany_Calculation.dll
