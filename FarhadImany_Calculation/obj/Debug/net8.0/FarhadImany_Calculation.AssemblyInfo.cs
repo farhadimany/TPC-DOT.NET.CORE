@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FarhadImany_Calculation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf5bf59eb0baaaf3e67df0f10fecf5cfbc99f561")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e73669cd8dd6ec3e7e4fbe254e5ffa61bcfeaa3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FarhadImany_Calculation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FarhadImany_Calculation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

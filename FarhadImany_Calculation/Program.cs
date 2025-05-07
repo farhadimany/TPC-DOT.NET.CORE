@@ -1,4 +1,6 @@
-﻿namespace FarhadImany_Calculation
+﻿using ConsoleApp6;
+
+namespace FarhadImany_Calculation
 {
     class Program
     {
