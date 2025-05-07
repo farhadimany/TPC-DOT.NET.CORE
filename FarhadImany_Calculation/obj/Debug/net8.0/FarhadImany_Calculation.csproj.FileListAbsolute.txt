@@ -12,3 +12,4 @@ D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\obj\Debug\
 D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\obj\Debug\net8.0\FarhadImany_Calculation.pdb
 D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\obj\Debug\net8.0\FarhadImany_Calculation.genruntimeconfig.cache
 D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\obj\Debug\net8.0\ref\FarhadImany_Calculation.dll
+D:\MVC\TPC_.NETCORE\05-FarhadImany_Calculator\FarhadImany_Calculation\obj\Debug\net8.0\FarhadImany_Calculation.sourcelink.json
